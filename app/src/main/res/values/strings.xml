@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentActivity</string>
+    <string name="button_name">Move To Second Activity</string>
+</resources>
